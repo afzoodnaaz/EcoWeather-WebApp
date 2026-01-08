@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1767883987422" clover="3.2.0">
+  <project timestamp="1767883987422" name="All files">
+    <metrics statements="15" coveredstatements="8" conditionals="12" coveredconditionals="6" methods="3" coveredmethods="2" elements="30" coveredelements="16" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="weather.js" path="C:\Users\afzoo\OneDrive\Desktop\GISMA Material\SEM5\SoftwareTesting\ecoweatherapp\weather.js">
+      <metrics statements="15" coveredstatements="8" conditionals="12" coveredconditionals="6" methods="3" coveredmethods="2"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="34" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
